@@ -10,7 +10,7 @@ export default function Header() {
       >
       
     <img
-src= "/image.jpg"
+src= "/SharingFood.jpg"
 alt="Header image"
 style={{
 height: "200px",

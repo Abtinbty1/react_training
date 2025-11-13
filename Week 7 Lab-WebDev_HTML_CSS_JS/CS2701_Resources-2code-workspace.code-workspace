@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../CS2701_Resources-1"
+		},
+		{
+			"name": "CS2701_Resources-2",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CS2701_Resources-2"
+	}
+}
